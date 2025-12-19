@@ -44,15 +44,15 @@ const ContactPage = () => {
     {
       icon: <FaEnvelope />,
       title: 'Email',
-      content: 'manishbasnet476@gmail.com',
-      link: 'mailto:manishbasnet476@gmail.com',
+      content: 'aasthagupta545@gmail.com',
+      link: 'mailto:aasthagupta545@gmail.com',
       gradient: 'from-blue-500 to-cyan-500'
     },
     {
       icon: <FaPhoneAlt />,
       title: 'Phone',
-      content: '7300449730',
-      link: 'tel:7300449730',
+      content: '9263400680',
+      link: 'tel:9263400680',
       gradient: 'from-green-500 to-emerald-500'
     },
     {
